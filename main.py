@@ -1,6 +1,6 @@
 # sacar lineaS POR QUE ALGUNAS NO SERVIRAN SE EJECUTARAN VARIAS VECES #
+import funcionesmateriales
 def resistenciaMaterial(x, y):
-    z = (x**2 + y**2)**2 + (x**2 - y**2)
 
 x = 2
 y = 20
@@ -23,5 +23,6 @@ for i in [x, y]:
 
 x = x + 1
 
-z = resistenciaMaterial(x, y)
+z = (x**2 + y**2)**2 + (x**2 - y**2)
+z = funcionesmateriales.resistenciaMaterial(x, y)
 print(z)
