@@ -1,0 +1,59 @@
+ingrese el n° de comunas:15
+Comuna: Andacollo
+Población en 2015:11415
+Población en 2016:11488
+Comuna: canela
+Población en 2015:9903
+Población en 2016:9914
+Comuna: combarbalá
+Población en 2015:15299
+Población en 2016:15379
+Comuna: comquimbo
+Población en 2015:231507
+Población en 2016:236799
+Comuna: llapel
+Población en 2015:32822
+Población en 2016:32887
+Comuna: La higuera
+Población en 2015:4622
+Población en 2016:4686
+Comuna: La serena
+Población en 2015:216874
+Población en 2016:221021
+Comuna: Los vilos 
+Población en 2015:20122
+Población en 2016:20259
+Comuna: Monte Patria
+Población en 2015:33796
+Población en 2016:33952
+Comuna: Ovalle
+Población en 2015:120469
+Población en 2016:121868
+Comuna: paiguano
+Población en 2015:4492
+Población en 2016:4492
+Comuna: Punitaqui
+Población en 2015:10805
+Población en 2016:10868
+Comuna: Rio Hurtado
+Población en 2015:4992
+Población en 2016:4997
+Comuna: Salamanca
+Población en 2015:27298
+Población en 2016:27410
+Comuna: Vicuña
+Población en 2015:26669
+Población en 2016:26781
+Comunas:  ['Andacollo', 'canela', 'combarbalá', 'comquimbo', 'llapel', 'La higuera', 'La serena', 'Los vilos ', 'Monte Patria', 'Ovalle', 'paiguano', 'Punitaqui', 'Rio Hurtado', 'Salamanca', 'Vicuña']
+Poblacion en 2015:  [11415, 9903, 15299, 231507, 32822, 4622, 216874, 20122, 33796, 120469, 4492, 10805, 4992, 27298, 26669]
+Poblacion en 2016:  [11488, 9914, 15379, 236799, 32887, 4686, 221021, 20259, 33952, 121868, 4492, 10868, 4997, 27410, 26781]
+La comuna de mayor población para 2016 es comquimbo ,tenia 236799 habitantes
+La comuna de menor población para 2016 es paiguano ,tenia 4492 habitantes
+La relación de la comuna más habitada a la menos habitada en 2016 es: 53.0
+El promedio de habitantes en 2015 es:  51406.0
+El promedio de habitantes en 2016 es:  52187.0
+El porcentaje de crecimiento en la región de Coquimboes: 1.5
+--------------------------------------------------------
+El porcentaje que corresponde a la comuna de Vicuña es: 3
+--------------------------------------------------------
+El porcentaje que corresponde a la comuna Vicuña sinconsiderar comquimbo es: 5.0
