@@ -1,0 +1,15 @@
+from PIL import Image
+import numpy as np
+import os
+
+for i in range(50):
+    # Crear una matriz de números aleatorios (tamaño 500x500x3 para RGB)
+    data = np.random.randint(0, 256, (500, 500, 3), dtype=np.uint8)
+
+    # Crear una imagen a partir de la matriz
+    img = Image.fromarray(data)
+
+    # Guardar la imagen en el directorio actual
+    img.save(os.path.join(os.getcwd(), f'random_image{i+1}.png'))
+
+    #switch python:
